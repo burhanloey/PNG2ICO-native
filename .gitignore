@@ -14,3 +14,6 @@ hs_err_pid*
 # Build directory
 build/
 dist/
+
+# Netbeans private folder
+nbproject/private/
