@@ -13,6 +13,7 @@ java -jar png2ico.jar icon_16x16 icon_32x32 icon_48x48 favicon
 ```
 
 ### License
+GNU General Public License v2.0 (GPL-2.0)
 ```
     PNG to ICO converter using image4j
 	
